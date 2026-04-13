@@ -1,3 +1,3 @@
-Practica Guiada #1
+Practica Guiada #2
 Sebastián Marín Fernández
 C24530
